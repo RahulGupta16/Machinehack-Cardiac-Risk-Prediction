@@ -20,4 +20,4 @@ The submission must contain the probabilities of the target classes no(0) and ye
 
 ## Online cv: 0.48828
 
-## Local cv: 0.48239
+## Local cv: 0.505004
