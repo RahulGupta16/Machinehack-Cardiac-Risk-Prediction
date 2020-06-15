@@ -18,6 +18,9 @@ The submission must contain the probabilities of the target classes no(0) and ye
 
 ## Rank: 16
 
-## Online cv: 0.48828
+![plug](https://user-images.githubusercontent.com/56091634/84697195-59224100-af6b-11ea-966d-ced264184d36.png)
+
+
+## Online cv: 0.48808
 
 ## Local cv: 0.505004
